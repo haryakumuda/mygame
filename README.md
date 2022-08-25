@@ -1,5 +1,5 @@
 # rockpaperscissors
-Just Rock Paper Scissors Game
+Hello, My Name is Harya Kumuda
 
 I tried to make program to play paper rock and scissors with computer.
 
